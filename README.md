@@ -98,6 +98,5 @@ This project mimics low-level system memory allocation without relying on standa
 - OS-level memory simulation
 - Embedded systems
 - Compiler/runtime internals
-- Interview prep on memory management
 
 ---
